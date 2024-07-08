@@ -1,4 +1,4 @@
-Welcome,
+# Welcome to *SIMPLE SIMON*
 
 I spent many hours as a young boy with my Simple Simon electronic game where all i had to do was memorise and copy the sequence of random numbers.  Once the game had shown me the sequence i could repeat it by pressing the colour buttons in the right order.  of course not only did the sequence get longer every time i was successful but it also got quicker too.
 
