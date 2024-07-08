@@ -1,0 +1,38 @@
+body {
+    background-color: coral
+}
+
+.board {
+    width: 600px;
+    height: 600px;
+    grid-auto-columns: 2;
+}
+
+.keys {
+    height: 300px;
+    width: 300px;
+    gap: 10px;
+    outline: 2px;
+}
+
+
+#blue, #yellow,
+#green, #red {
+    
+}
+
+#blue {
+    background-color: blue;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#green {
+    background-color: green;
+}
+
+#red {
+    background-color: red;
+}
