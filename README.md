@@ -1,8 +1,18 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+Welcome,
 
-Welcome USER_NAME,
+I spent many hours as a young boy with my Simple Simon electronic game where all i had to do was memorise and copy the sequence of random numbers.  Once the game had shown me the sequence i could repeat it by pressing the colour buttons in the right order.  of course not only did the sequence get longer every time i was successful but it also got quicker too.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+This is my attempt to replicate the game i enjoyed so much.
+
+My first version will involve a simple square setup while i will attempt to make it a circle and look more like the electronic game.
+
+*********************************************************************************************************************************************************************************************************************************************
+*********************************************************************************************************************************************************************************************************************************************
+*********************************************************************************************************************************************************************************************************************************************
+*********************************************************************************************************************************************************************************************************************************************
+*********************************************************************************************************************************************************************************************************************************************
+
+
 
 You can safely delete this README.md file or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **April 26, 2024**
 
