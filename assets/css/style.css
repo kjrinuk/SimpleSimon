@@ -1,18 +1,41 @@
 body {
-    background-color: coral
+    background-color: coral;
+    /* display: flex; */
+    /* align-items: center;
+    justify-content: center; */
+    gap: 20px;
+    width: 600px;
+    height: 600px;
+    margin: auto;
 }
 
 .board {
-    width: 600px;
-    height: 600px;
-    grid-auto-columns: 2;
+    height: 750px;
+    width: 750px;
+    background-color: olivedrab;
+    display: flex;
+    /* position: relative; */
+    justify-content: center;
+    align-content: center;
+    /* gap: 30px; */
 }
+
+.game {
+  /* gap: 50px; */
+  /* outline: auto; */
+  position: relative;
+  outline-width: 5px;
+  outline-style: groove;
+}
+
 
 .keys {
     height: 300px;
     width: 300px;
-    gap: 10px;
-    outline: 2px;
+    gap: 100px;
+    outline: 20px;
+    outline-color: blueviolet;
+
 }
 
 
